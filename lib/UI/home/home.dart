@@ -35,9 +35,6 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
 
-  Future<void> _incrementCounter() async {
-  }
-
   @override
   void initState() {
     super.initState();
