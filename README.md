@@ -6,6 +6,9 @@ A simple Flutter prototype module that handle theme changing and also persists i
 * [Provider](https://pub.dev/packages/provider) A wrapper around InheritedWidget to make them easier to use and more reusable.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) Wraps platform-specific persistent storage for simple data
 
+## Todo
+* [ ] Implement decrease number using multiple FAB
+
 ## Getting Started
 ## How to run the App
 1. Clone this project and open with your editor.
